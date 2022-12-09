@@ -1,0 +1,8 @@
+C:\COBOL\cbljcb00\bin\x86\Debug\cbljcb00.idy
+C:\COBOL\cbljcb00\obj\x86\Debug\cbljcb00.idy
+C:\COBOLWI22\cbljcb00\bin\x86\Debug\cbljcb00.idy
+C:\COBOLWI22\cbljcb00\obj\x86\Debug\cbljcb00.idy
+C:\COBOLWI22\cbljcb00\bin\x86\Debug\cbljcb00.int
+C:\COBOLWI22\cbljcb00\obj\x86\Debug\cbljcb00.int
+C:\COBOL\cbljcb00\obj\x86\Debug\cbljcb00.int
+C:\COBOL\cbljcb00\bin\x86\Debug\cbljcb00.int
